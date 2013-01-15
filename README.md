@@ -35,22 +35,22 @@ this outputs
 ```json
 	[ 
 		{ 
-			title: '<b>ubuntu</b>-12.10-desktop-amd64.iso',
-			link: 'http://isohunt.com/torrent_details/422077925/ubuntu?tab=summary',
-			torrentUrl: 'http://ca.isohunt.com/download/422077925/ubuntu.torrent',
-			size: '763 MB' 
+			"title": "<b>ubuntu</b>-12.10-desktop-amd64.iso",
+			"link": "http://isohunt.com/torrent_details/422077925/ubuntu?tab=summary",
+			"torrentUrl": "http://ca.isohunt.com/download/422077925/ubuntu.torrent",
+			"size": "763 MB" 
 		},
 		{ 
-			title: '<b>ubuntu</b>-12.10-desktop-i386.iso',
-			link: 'http://isohunt.com/torrent_details/422077933/ubuntu?tab=summary',
-			torrentUrl: 'http://ca.isohunt.com/download/422077933/ubuntu.torrent',
-			size: '753.29 MB' 
+			"title": "<b>ubuntu</b>-12.10-desktop-i386.iso",
+			"link": "http://isohunt.com/torrent_details/422077933/ubuntu?tab=summary",
+			"torrentUrl": "http://ca.isohunt.com/download/422077933/ubuntu.torrent",
+			"size": "753.29 MB" 
 		},
 		{ 
-			title: 'xubuntu-12.10-desktop-i386.iso',
-			link: 'http://isohunt.com/torrent_details/422053505/ubuntu?tab=summary',
-			torrentUrl: 'http://ca.isohunt.com/download/422053505/ubuntu.torrent',
-			size: '693.29 MB' 
+			"title": "xubuntu-12.10-desktop-i386.iso",
+			"link": "http://isohunt.com/torrent_details/422053505/ubuntu?tab=summary",
+			"torrentUrl": "http://ca.isohunt.com/download/422053505/ubuntu.torrent",
+			"size": "693.29 MB" 
 		} 
 	]
 ```
