@@ -9,13 +9,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/vicentedealencar/playground.git"
+    "url": "https://github.com/vicentedealencar/node-isohunt.git"
   },
   "dependencies" : {
-    "querystring"   :  "0.1.0",
+    "querystring"   :  "0.1.0"
   },
   "keywords": [
     "isohunt",
-    "torrent",
-  ],
+    "torrent"
+  ]
 }
