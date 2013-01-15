@@ -1,0 +1,21 @@
+{
+  "name": "node-isohunt",
+  "version": "0.1.0",
+  "description": "Wrapper for the Isohunt API",
+  "main": "./node-isohunt.js",
+  "author": {
+    "name": "Vicente de Alencar <contato@vicentedealencar.com>",
+    "email": "contato@vicentedealencar.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vicentedealencar/playground.git"
+  },
+  "dependencies" : {
+    "querystring"   :  "0.1.0",
+  },
+  "keywords": [
+    "isohunt",
+    "torrent",
+  ],
+}
