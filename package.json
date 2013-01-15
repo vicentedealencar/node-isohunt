@@ -1,6 +1,6 @@
 {
   "name": "node-isohunt",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Wrapper for the Isohunt API",
   "main": "./node-isohunt.js",
   "author": {
