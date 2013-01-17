@@ -2,6 +2,12 @@
 
 Wrapper for the Isohunt API.
 
+## Installation
+
+```
+	npm install node-isohunt
+```
+
 ## Quick Start
 
 ```javascript
