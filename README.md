@@ -1,3 +1,12 @@
+# No longer works :(
+
+> A United States federal court has permanently shut down isoHunt.com because it was in violation of copyright law. If you are looking for your favorite movies or TV shows online, there are more ways than ever today to get high quality access to them on legal platforms.
+
+from isohunt.com
+
+---
+
+
 # node-isohunt
 
 Wrapper for the Isohunt API.
